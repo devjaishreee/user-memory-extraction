@@ -5,8 +5,12 @@ Using semantic embeddings from Sentence-BERT, extracted facts are stored and ret
 
 Built With
 GPT-4 – for high-precision factual extraction
+
 Sentence-BERT – to embed user facts and queries
+
 FAISS – for fast and scalable vector similarity search
+
 Python – core implementation
+
 Dotenv – to manage OpenAI API credentials
 
