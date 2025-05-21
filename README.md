@@ -6,11 +6,11 @@ A factual memory system for AI agents that uses GPT-4 to extract user traits (li
 
 ## Features
 
-- ✅ Factual memory extraction via GPT-4
-- ✅ Embedding-based semantic memory using Sentence-BERT
-- ✅ Fast vector search with FAISS
-- ✅ Context injection for dynamic personalization
-- ✅ Modular, extensible, and ready for production
+- Factual memory extraction via GPT-4
+- Embedding-based semantic memory using Sentence-BERT
+- Fast vector search with FAISS
+- Context injection for dynamic personalization
+- Modular, extensible, and ready for production
 
 ---
 
@@ -45,7 +45,7 @@ user-memory-extraction/
 
 ---
 
-## 🔧 Setup & Usage
+##  Setup & Usage
 
 ### 1. Clone and install dependencies
 ```bash
@@ -108,7 +108,7 @@ MIT License – use freely with attribution.
 
 ---
 
-## 🙌 Contributing
+## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
