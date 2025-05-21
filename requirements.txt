@@ -1,0 +1,5 @@
+openai
+faiss-cpu
+sentence-transformers
+numpy
+python-dotenv # for managing OpenAI keys

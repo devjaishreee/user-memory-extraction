@@ -1,0 +1,3 @@
+User: I live in India.
+User: Please keep your responses short.
+User: I prefer night-time reminders.
