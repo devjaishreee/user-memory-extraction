@@ -4,6 +4,7 @@ This project implements a long-term factual memory system for AI agents by extra
 Using semantic embeddings from Sentence-BERT, extracted facts are stored and retrieved via FAISS for fast similarity search. When a new user query arrives, relevant memory is dynamically injected into the prompt, allowing the AI agent to “remember” the user.
 
 Built With
+
 GPT-4 – for high-precision factual extraction
 
 Sentence-BERT – to embed user facts and queries
