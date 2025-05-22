@@ -101,16 +101,3 @@ User: I prefer night-time reminders.
 - Do **not** commit your `.env` file or API key.
 
 ---
-
-## License
-
-MIT License – use freely with attribution.
-
----
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
----
-
